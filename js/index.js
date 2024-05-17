@@ -1,12 +1,12 @@
 // Api urls
 
-const ProxyApi = "https://proxy.techzbots1.workers.dev/?u=";
+const ProxyApi = "https://proxy.ar5102935.workers.dev/?u=https://animaxforfree.vercel.app/";
 const IndexApi = "/home";
 const recentapi = "/recent/";
 
 // Api Server Manager
 
-const AvailableServers = ["https://api100.anime-dex.workers.dev"];
+const AvailableServers = ["https://api3.ar5102935.workers.dev"];
 
 function getApiServer() {
     return AvailableServers[Math.floor(Math.random() * AvailableServers.length)];
