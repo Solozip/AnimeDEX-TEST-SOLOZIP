@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://proxy.ar5102935.workers.dev/?u=http://animax.rf.gd";
+const ProxyApi = "https://proxy.ar5102935.workers.dev/?u=https://animaxforfree.vercel.app";
 const animeapi = "/anime/";
 const episodeapi = "/episode/";
 const dlapi = "/download/";
