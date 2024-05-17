@@ -1,6 +1,6 @@
 // Api urls
 
-const ProxyApi = "https://proxy.ar5102935.workers.dev/?u=https://animaxforfree.vercel.app/";
+const ProxyApi = "https://proxy.ar5102935.workers.dev/?u=https://animaxforfree.vercel.app";
 const IndexApi = "/home";
 const recentapi = "/recent/";
 
